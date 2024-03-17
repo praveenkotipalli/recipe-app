@@ -1,0 +1,44 @@
+.detailWrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.imgWrapper img{
+    width: 250px;
+}
+
+/* .mealImage{
+    width: 150px;
+} */
+
+.bottomWrapper img{
+    width: 250px;
+}
+.bottomWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 32px;
+}
+.nutWrapper{
+    padding: 10px;
+    background-color: #603F83FF;
+    color:  black;
+    width: 250px;
+    border-radius: 10px;
+}
+.ingWrapper{
+    padding: 10px;
+    background-color: #603F83FF;
+    color:  black;
+    width: 250px;
+    border-radius: 10px;
+}
+/* .mealImage{
+    padding: 10px;
+    background-color: #00203FFF;
+    color:  #ADEFD1FF;
+    width: 150px;
+    border-radius: 10px;
+} */
